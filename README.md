@@ -4,11 +4,10 @@ Este é o repositório oficial da landing page do SAS – sistema web que permit
 
 ## ✅ Instruções
 
-1. Crie um repositório no GitHub com o nome `sas`
-2. Envie os arquivos deste pacote para o repositório
-3. Vá em Settings > Pages > selecione a branch `main` e a pasta `/ (root)`
-4. O sistema estará disponível no seguinte link:
+1. Suba esses arquivos no GitHub Pages
+2. O botão "Assinar por R$19,90/mês" leva ao checkout da Stripe:
+   https://buy.stripe.com/test_4gw5ne9xE4Kp8xKaEF
 
-👉 https://decunha84.github.io/sas/
+Substitua esse link pelo seu real após criar no painel da Stripe.
 
 Desenvolvido com ❤️ para profissionais autônomos.
