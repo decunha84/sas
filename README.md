@@ -4,9 +4,11 @@ Este é o repositório oficial da landing page do SAS – sistema web que permit
 
 ## ✅ Instruções
 
-1. Acesse https://github.com e crie um repositório chamado `sas`
-2. Faça upload destes arquivos
-3. Vá em Settings > Pages > selecione `main` branch e root `/`
-4. Pronto! Seu app estará disponível em https://seunome.github.io/sas
+1. Crie um repositório no GitHub com o nome `sas`
+2. Envie os arquivos deste pacote para o repositório
+3. Vá em Settings > Pages > selecione a branch `main` e a pasta `/ (root)`
+4. O sistema estará disponível no seguinte link:
 
-Desenvolvido com ❤️ para profissionais autônomos
+👉 https://decunha84.github.io/sas/
+
+Desenvolvido com ❤️ para profissionais autônomos.
